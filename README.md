@@ -22,7 +22,7 @@ The main goal of this project was to design and test a simple measurement system
 |---|---|
 | `report/` | Project report |
 | `schematic/` | Circuit schematic |
-| `code/` | ATmega328P program |
+| `code/` | ATmega328P source code |
 | `data/` | Measurement data |
 | `videos/` | Demonstration video |
 | `image/` | Photograph of the implemented circuit |
