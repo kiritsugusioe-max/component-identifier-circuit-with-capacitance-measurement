@@ -22,6 +22,7 @@ The main goal of this project was to design and test a simple measurement system
 |---|---|
 | `report/` | Project report |
 | `schematic/` | Circuit schematic |
+| `simulation/` | LTspice simulation files |
 | `code/` | ATmega328P source code |
 | `data/` | Measurement data |
 | `videos/` | Demonstration video |
