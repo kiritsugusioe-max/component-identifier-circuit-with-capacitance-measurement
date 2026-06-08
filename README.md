@@ -6,8 +6,8 @@ For capacitors, the system also calculates and displays the capacitance.
 
 ## Project Summary
 
-The system uses an analog front-end circuit, a comparator, a Schmitt trigger inverter, and an ATmega328P microcontroller.  
-The main goal of this project was to design and test a simple measurement system, then investigate how accurate the capacitance measurement could be in practice.
+The system uses a comparator-based measurement circuit, a Schmitt trigger inverter, and an ATmega328P microcontroller.  
+The main goal of this project was to design and test a simple measurement system, evaluate the accuracy of the capacitance measurement, and analyse the sources of error.
 
 ## Main Results
 
